@@ -5,13 +5,13 @@ Docker hub development containers proxy on github
 
 - ubuntu
   ```shell
-  docker pull ubuntu
+  docker pull docker.pkg.github.com/rasulalizadeh/star-containers/ubuntu
   ```
 - python
   ```shell
-  docker pull python
+  docker pull docker.pkg.github.com/rasulalizadeh/star-containers/python
   ```
 - django
   ```shell
-  docker pull django
+  docker pull docker.pkg.github.com/rasulalizadeh/star-containers/django
   ```
